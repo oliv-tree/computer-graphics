@@ -1,0 +1,12 @@
+.DS_Store
+*.mp4
+**/build/
+.vscode
+.idea/
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+cmake-build-*
+output/
+output.*
+.fleet/
